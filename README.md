@@ -6,6 +6,10 @@
 ![license](https://img.shields.io/badge/license-MIT-green)
 
 ---
+## 交流群组
+
+Telegram: [t.me/77252](https://t.me/77252)
+QQ:2856150283
 
 ## 这是什么
 
