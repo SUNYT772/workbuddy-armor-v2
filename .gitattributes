@@ -1,0 +1,3 @@
+# 钉死 bat 换行符为 CRLF —— cmd 对 LF 敏感，LF 会导致 ">nul 不是内部或外部命令" 解析错误。
+# 无论 clone 方的 core.autocrlf 如何设置，检出时都强制 CRLF。
+*.bat text eol=crlf
