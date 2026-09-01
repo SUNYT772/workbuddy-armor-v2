@@ -6,9 +6,9 @@
 ![license](https://img.shields.io/badge/license-MIT-green)
 
 ---
-## 交流群组
+## 技术指导
 
-Telegram: [t.me/77252](https://t.me/77252)
+Telegram:[@772521](https://t.me/ty772521)
 QQ:2856150283
 
 ## 这是什么
@@ -90,9 +90,9 @@ workbuddy-armor/
 改破甲段措辞：编辑 `gen_templates.py` 里的 `ARMOR` 段 → `python gen_templates.py` →
 重启 WorkBuddy。生成器幂等（从 `originals/` 全量重建）。
 
-## 交流群组
+## 技术
 
-Telegram: [t.me/77252](https://t.me/77252)
+Telegram:https://t.me/ty772521
 
 ## License
 
