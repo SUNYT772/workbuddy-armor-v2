@@ -8,8 +8,9 @@
 ---
 ## 技术指导
 
-Telegram:[@772521](https://t.me/ty772521)
+Telegram:[@772521](https://t.me/ty772521) 
 QQ:2856150283
+QQ群:1106305314
 
 ## 这是什么
 
@@ -93,6 +94,8 @@ workbuddy-armor/
 ## 技术
 
 Telegram:https://t.me/ty772521
+QQ群:1106305314
+QQ：2856180283
 
 ## License
 
