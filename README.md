@@ -1,3 +1,4 @@
+此项目不在维护，可以拿去借鉴二开
 # WorkBuddy 破甲（Armor-Breaker）
 
 > 基于 WorkBuddy 官方运行时机制的系统提示模板注入工具。
